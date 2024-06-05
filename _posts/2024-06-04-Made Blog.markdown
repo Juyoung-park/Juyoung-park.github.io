@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Made blog!"
+date:   2024-06-04 22:28:30 -0400
+author: Juyoung Park
+categories: jekyll update
+---
+Hi, I made my first blog. 
+
+Even though I was a software engineer, I didn't have a proper personal blog.
+
+I plan to host this blog on the github page and share my thoughts, knowledge, and experiences.
+
+I hope I keep this blog going well...
