@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Title"
+title                    : "Juyoung Park"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Software Engineer & Developer"
 name                     : "Juyoung Park"
-description              : "My first Website"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "Juyoung Park's personal tech blog. Sharing thoughts on software development, programming, and technology."
+url                      : "https://juyoung-park.github.io"
+baseurl                  : ""
+repository               : "Juyoung-park/Juyoung-park.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -68,9 +68,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : lunr
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juyoung Park  "
+  name             : "Juyoung Park"
   avatar           : #"/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "ON, Canada"
+  bio              : "Software Engineer passionate about technology and continuous learning."
+  location         : "Washington, USA"
   email            :
   links:
     - label: "Email"
@@ -263,14 +263,17 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
+safe: true
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 
 # Archives
