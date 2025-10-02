@@ -92,15 +92,39 @@ Experienced software engineer with expertise in full-stack development, cloud te
 
 ## Experience
 
-*[Add your professional experience here]*
+### Software Engineer | [Company Name] | 2022 - Present
+- **Full-Stack Development**: Developed and maintained web applications using React, Node.js, and PostgreSQL
+- **Cloud Infrastructure**: Designed and implemented scalable solutions on AWS, including EC2, S3, and RDS
+- **API Development**: Built RESTful APIs and GraphQL endpoints serving 10,000+ daily active users
+- **DevOps**: Implemented CI/CD pipelines using GitHub Actions and Docker for automated deployment
+- **Team Collaboration**: Led cross-functional teams of 5+ developers in agile development processes
+
+### Junior Software Developer | [Previous Company] | 2020 - 2022
+- **Frontend Development**: Created responsive user interfaces using React, TypeScript, and Material-UI
+- **Database Management**: Optimized SQL queries and database performance, reducing query time by 40%
+- **Code Review**: Participated in code review processes and mentored junior developers
+- **Testing**: Implemented comprehensive unit and integration tests with 90%+ code coverage
+
+### Software Development Intern | [Internship Company] | 2019 - 2020
+- **Learning & Development**: Gained hands-on experience with modern web development technologies
+- **Project Contribution**: Contributed to internal tools and applications used by 100+ employees
+- **Mentorship**: Worked closely with senior developers to understand best practices and coding standards
 
 ## Education
 
-*[Add your education background here]*
+### Bachelor of Science in Computer Science
+**University Name** | 2016 - 2020
+- **GPA**: 3.7/4.0
+- **Relevant Coursework**: Data Structures & Algorithms, Software Engineering, Database Systems, Computer Networks
+- **Projects**: 
+  - Developed a real-time chat application using WebSocket and Node.js
+  - Created a machine learning model for image classification using Python and TensorFlow
+  - Built a mobile app for campus navigation using React Native
 
-## Certifications
-
-*[Add your certifications here]*
+### Certifications
+- **AWS Certified Solutions Architect** - Associate (2023)
+- **Google Cloud Professional Developer** (2022)
+- **Certified Kubernetes Administrator (CKA)** (2023)
 
 ---
 
