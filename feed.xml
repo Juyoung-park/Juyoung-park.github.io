@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://juyoung-park.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://juyoung-park.github.io/" rel="alternate" type="text/html" /><updated>2025-10-02T17:51:07+00:00</updated><id>https://juyoung-park.github.io/feed.xml</id><title type="html">Juyoung Park</title><subtitle>Juyoung Park&apos;s personal tech blog. Sharing thoughts on software development, programming, and technology.</subtitle><author><name>Juyoung Park</name></author><entry><title type="html">Building a Blog with Jekyll and GitHub Pages</title><link href="https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup/" rel="alternate" type="text/html" title="Building a Blog with Jekyll and GitHub Pages" /><published>2024-06-05T14:00:00+00:00</published><updated>2024-06-05T14:00:00+00:00</updated><id>https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup</id><content type="html" xml:base="https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup/"><![CDATA[<p>Let me share the process of creating a personal blog using GitHub Pages and Jekyll.</p>
+
+<h2 id="what-is-jekyll">What is Jekyll?</h2>
+
+<p>Jekyll is a static site generator that converts Markdown files into HTML to create static websites.</p>
+
+<h3 id="advantages-of-jekyll">Advantages of Jekyll</h3>
+
+<ul>
+  <li><strong>Fast Loading</strong>: Static files have less server load and are faster</li>
+  <li><strong>Git-based</strong>: Version control is possible through Git</li>
+  <li><strong>Free Hosting</strong>: Available for free hosting on GitHub Pages</li>
+  <li><strong>SEO Friendly</strong>: Static files are advantageous for search engine optimization</li>
+</ul>
+
+<h2 id="github-pages-setup">GitHub Pages Setup</h2>
+
+<h3 id="1-create-repository">1. Create Repository</h3>
+
+<p>Create a repository in the format <code class="language-plaintext highlighter-rouge">username.github.io</code> on GitHub.</p>
+
+<h3 id="2-apply-jekyll-theme">2. Apply Jekyll Theme</h3>
+
+<p>I used the Minimal Mistakes theme:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s2">"</span><span class="s">mmistakes/minimal-mistakes"</span>
+</code></pre></div></div>
+
+<h3 id="3-basic-configuration">3. Basic Configuration</h3>
+
+<p>Set site information in the <code class="language-plaintext highlighter-rouge">_config.yml</code> file:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Juyoung</span><span class="nv"> </span><span class="s">Park"</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Juyoung</span><span class="nv"> </span><span class="s">Park's</span><span class="nv"> </span><span class="s">personal</span><span class="nv"> </span><span class="s">tech</span><span class="nv"> </span><span class="s">blog."</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://juyoung-park.github.io"</span>
+</code></pre></div></div>
+
+<h2 id="writing-blog-posts">Writing Blog Posts</h2>
+
+<h3 id="post-structure">Post Structure</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Post</span><span class="nv"> </span><span class="s">Title"</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2024-06-05 10:00:00 -0400</span>
+<span class="na">author</span><span class="pi">:</span> <span class="s">Juyoung Park</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">category</span><span class="pi">]</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">tag1</span><span class="pi">,</span> <span class="nv">tag2</span><span class="pi">]</span>
+<span class="nn">---</span>
+
+Post content...
+</code></pre></div></div>
+
+<h3 id="using-markdown-syntax">Using Markdown Syntax</h3>
+
+<ul>
+  <li><strong>Bold text</strong>: <code class="language-plaintext highlighter-rouge">**text**</code></li>
+  <li><em>Italic text</em>: <code class="language-plaintext highlighter-rouge">*text*</code></li>
+  <li><a href="https://example.com">Link</a>: <code class="language-plaintext highlighter-rouge">[Link](URL)</code></li>
+  <li>Code block: ```language</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Using Jekyll and GitHub Pages allows you to run a personal blog for free. 
+For developers, blog management using Git is very convenient.</p>
+
+<p>I’ll share more technical content in the future!</p>]]></content><author><name>Juyoung Park</name></author><category term="development" /><category term="blog" /><category term="jekyll" /><category term="github-pages" /><category term="blog" /><category term="web-development" /><summary type="html"><![CDATA[Let me share the process of creating a personal blog using GitHub Pages and Jekyll.]]></summary></entry><entry><title type="html">My First Blog Post</title><link href="https://juyoung-park.github.io/blog/development/Made-Blog/" rel="alternate" type="text/html" title="My First Blog Post" /><published>2024-06-05T02:28:30+00:00</published><updated>2024-06-05T02:28:30+00:00</updated><id>https://juyoung-park.github.io/blog/development/Made-Blog</id><content type="html" xml:base="https://juyoung-park.github.io/blog/development/Made-Blog/"><![CDATA[<p>Hello! I’ve finally created my personal blog.</p>
+
+<h2 id="starting-the-blog">Starting the Blog</h2>
+
+<p>Although I work as a software engineer, I didn’t have a personal tech blog. 
+Now I’m running a blog built with Jekyll and hosted on GitHub Pages.</p>
+
+<h2 id="future-plans">Future Plans</h2>
+
+<p>I plan to share the following content on this blog:</p>
+
+<ul>
+  <li><strong>Technology Learning Journey</strong>: Experiences while learning new technologies</li>
+  <li><strong>Development Tips and Know-how</strong>: Useful development tips from practical work</li>
+  <li><strong>Project Reviews</strong>: Retrospectives and lessons learned from completed projects</li>
+  <li><strong>Thoughts as a Developer</strong>: Development culture, career, and developer concerns</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I look forward to consistently maintaining this blog and growing together with the developer community. 
+I appreciate your interest and feedback! 🚀</p>]]></content><author><name>Juyoung Park</name></author><category term="blog" /><category term="development" /><category term="jekyll" /><category term="github-pages" /><category term="blog" /><summary type="html"><![CDATA[Hello! I’ve finally created my personal blog.]]></summary></entry></feed>

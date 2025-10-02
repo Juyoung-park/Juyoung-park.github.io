@@ -1,0 +1,68 @@
+<p>Let me share the process of creating a personal blog using GitHub Pages and Jekyll.</p>
+
+<h2 id="what-is-jekyll">What is Jekyll?</h2>
+
+<p>Jekyll is a static site generator that converts Markdown files into HTML to create static websites.</p>
+
+<h3 id="advantages-of-jekyll">Advantages of Jekyll</h3>
+
+<ul>
+  <li><strong>Fast Loading</strong>: Static files have less server load and are faster</li>
+  <li><strong>Git-based</strong>: Version control is possible through Git</li>
+  <li><strong>Free Hosting</strong>: Available for free hosting on GitHub Pages</li>
+  <li><strong>SEO Friendly</strong>: Static files are advantageous for search engine optimization</li>
+</ul>
+
+<h2 id="github-pages-setup">GitHub Pages Setup</h2>
+
+<h3 id="1-create-repository">1. Create Repository</h3>
+
+<p>Create a repository in the format <code class="language-plaintext highlighter-rouge">username.github.io</code> on GitHub.</p>
+
+<h3 id="2-apply-jekyll-theme">2. Apply Jekyll Theme</h3>
+
+<p>I used the Minimal Mistakes theme:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s2">"</span><span class="s">mmistakes/minimal-mistakes"</span>
+</code></pre></div></div>
+
+<h3 id="3-basic-configuration">3. Basic Configuration</h3>
+
+<p>Set site information in the <code class="language-plaintext highlighter-rouge">_config.yml</code> file:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Juyoung</span><span class="nv"> </span><span class="s">Park"</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Juyoung</span><span class="nv"> </span><span class="s">Park's</span><span class="nv"> </span><span class="s">personal</span><span class="nv"> </span><span class="s">tech</span><span class="nv"> </span><span class="s">blog."</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://juyoung-park.github.io"</span>
+</code></pre></div></div>
+
+<h2 id="writing-blog-posts">Writing Blog Posts</h2>
+
+<h3 id="post-structure">Post Structure</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Post</span><span class="nv"> </span><span class="s">Title"</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2024-06-05 10:00:00 -0400</span>
+<span class="na">author</span><span class="pi">:</span> <span class="s">Juyoung Park</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">category</span><span class="pi">]</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">tag1</span><span class="pi">,</span> <span class="nv">tag2</span><span class="pi">]</span>
+<span class="nn">---</span>
+
+Post content...
+</code></pre></div></div>
+
+<h3 id="using-markdown-syntax">Using Markdown Syntax</h3>
+
+<ul>
+  <li><strong>Bold text</strong>: <code class="language-plaintext highlighter-rouge">**text**</code></li>
+  <li><em>Italic text</em>: <code class="language-plaintext highlighter-rouge">*text*</code></li>
+  <li><a href="https://example.com">Link</a>: <code class="language-plaintext highlighter-rouge">[Link](URL)</code></li>
+  <li>Code block: ```language</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Using Jekyll and GitHub Pages allows you to run a personal blog for free. 
+For developers, blog management using Git is very convenient.</p>
+
+<p>I’ll share more technical content in the future!</p>
