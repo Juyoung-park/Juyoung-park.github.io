@@ -1,77 +1,76 @@
 ---
 layout: post
-title: "Jekyll과 GitHub Pages로 블로그 만들기"
+title: "Building a Blog with Jekyll and GitHub Pages"
 date: 2024-06-05 10:00:00 -0400
 author: Juyoung Park
-categories: [개발, 블로그]
-tags: [jekyll, github-pages, 블로그, 웹개발]
+categories: [development, blog]
+tags: [jekyll, github-pages, blog, web-development]
 ---
 
-GitHub Pages와 Jekyll을 사용해서 개인 블로그를 만드는 과정을 정리해보겠습니다.
+Let me share the process of creating a personal blog using GitHub Pages and Jekyll.
 
-## Jekyll이란?
+## What is Jekyll?
 
-Jekyll은 정적 사이트 생성기(Static Site Generator)입니다. 
-Markdown 파일을 HTML로 변환하여 정적 웹사이트를 생성합니다.
+Jekyll is a static site generator that converts Markdown files into HTML to create static websites.
 
-### Jekyll의 장점
+### Advantages of Jekyll
 
-- **빠른 로딩**: 정적 파일이므로 서버 부하가 적고 빠릅니다
-- **Git 기반**: Git을 통해 버전 관리가 가능합니다
-- **무료 호스팅**: GitHub Pages에서 무료로 호스팅 가능합니다
-- **SEO 친화적**: 정적 파일이므로 검색 엔진 최적화에 유리합니다
+- **Fast Loading**: Static files have less server load and are faster
+- **Git-based**: Version control is possible through Git
+- **Free Hosting**: Available for free hosting on GitHub Pages
+- **SEO Friendly**: Static files are advantageous for search engine optimization
 
-## GitHub Pages 설정
+## GitHub Pages Setup
 
-### 1. 저장소 생성
+### 1. Create Repository
 
-GitHub에서 `username.github.io` 형태로 저장소를 생성합니다.
+Create a repository in the format `username.github.io` on GitHub.
 
-### 2. Jekyll 테마 적용
+### 2. Apply Jekyll Theme
 
-Minimal Mistakes 테마를 사용했습니다:
+I used the Minimal Mistakes theme:
 
 ```yaml
 remote_theme: "mmistakes/minimal-mistakes"
 ```
 
-### 3. 기본 설정
+### 3. Basic Configuration
 
-`_config.yml` 파일에서 사이트 정보를 설정합니다:
+Set site information in the `_config.yml` file:
 
 ```yaml
 title: "Juyoung Park"
-description: "개발자 주영의 기술 블로그입니다."
+description: "Juyoung Park's personal tech blog."
 url: "https://juyoung-park.github.io"
 ```
 
-## 블로그 포스트 작성
+## Writing Blog Posts
 
-### 포스트 구조
+### Post Structure
 
 ```markdown
 ---
 layout: post
-title: "포스트 제목"
+title: "Post Title"
 date: 2024-06-05 10:00:00 -0400
 author: Juyoung Park
-categories: [카테고리]
-tags: [태그1, 태그2]
+categories: [category]
+tags: [tag1, tag2]
 ---
 
-포스트 내용...
+Post content...
 ```
 
-### Markdown 문법 활용
+### Using Markdown Syntax
 
-- **볼드 텍스트**: `**텍스트**`
-- *이탤릭 텍스트*: `*텍스트*`
-- [링크](https://example.com): `[링크](URL)`
-- 코드 블록: ```언어명
+- **Bold text**: `**text**`
+- *Italic text*: `*text*`
+- [Link](https://example.com): `[Link](URL)`
+- Code block: ```language
 
-## 마무리
+## Conclusion
 
-Jekyll과 GitHub Pages를 사용하면 무료로 개인 블로그를 운영할 수 있습니다. 
-개발자라면 Git을 활용한 블로그 관리가 매우 편리할 것입니다.
+Using Jekyll and GitHub Pages allows you to run a personal blog for free. 
+For developers, blog management using Git is very convenient.
 
-앞으로 더 많은 기술적인 내용들을 공유하겠습니다!
+I'll share more technical content in the future!
