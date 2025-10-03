@@ -112,8 +112,12 @@ Experienced software engineer with expertise in full-stack development, cloud te
 
 ## Education
 
-### Bachelor of Science in Computer Science
-**University Name** | 2016 - 2020
+### Master of Engineering - Electrical and Computer Engineering
+**University of Waterloo** | Ontario, Canada
+- **Specialization**: Artificial Intelligence & Machine Learning
+
+### Bachelor of Engineering - Computer Science
+**Hongik University** | Seoul, Korea
 - **GPA**: 3.7/4.0
 - **Relevant Coursework**: Data Structures & Algorithms, Software Engineering, Database Systems, Computer Networks
 - **Projects**: 
