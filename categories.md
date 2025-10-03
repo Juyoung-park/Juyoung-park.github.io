@@ -8,3 +8,4 @@ author_profile: true
 # Categories
 
 Browse posts by category.
+
