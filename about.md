@@ -9,7 +9,7 @@ Hello! I'm Juyoung (Justin) Park, a software engineer based in Washington, USA.
 
 ## Professional Summary
 
-I build end-to-end software products with an emphasis on maintainable code, measurable impact, and great developer experience. My background spans React and Vue.js interfaces, Node.js and Java services, and AWS infrastructure that keeps products reliable at scale.
+Passionate and innovative engineer with 17+ years of experience building world-class Android applications, XR/AR platforms, and large-scale mobile services. I combine deep technical expertise with leadership in guiding teams and delivering user-focused products. Currently expanding into AI/ML engineering, I aim to create intelligent solutions that bridge mobile platforms, cloud systems, and next-generation user experiences.
 
 ## What I Focus On
 
@@ -20,22 +20,20 @@ I build end-to-end software products with an emphasis on maintainable code, meas
 
 ## Recent Experience
 
-**Software Engineer — [Company Name] (2022&nbsp;–&nbsp;Present)**  
-Ship and maintain full-stack web applications, implement resilient APIs, and guide a team of developers through agile delivery.
+**Principal Software Engineer — Samsung Electronics (2022&nbsp;–&nbsp;Present)**  
+- Development and design Android microXR for Samsung AR Glasses
 
-**Junior Software Developer — [Previous Company] (2020&nbsp;–&nbsp;2022)**  
-Craft responsive UIs in React and TypeScript, optimize SQL performance, and elevate code quality through tests and reviews.
-
+**Senior Software Developer — Samsung Electronics (2020&nbsp;–&nbsp;2022)**  
+- Technical leading and development for Samsung Positioning, Network Diagnostics.
+<!-- 
 **Software Development Intern — [Internship Company] (2019&nbsp;–&nbsp;2020)**  
-Support internal product development, applying modern web practices alongside senior mentors.
+Support internal product development, applying modern web practices alongside senior mentors. -->
 
 ## Education & Certifications
 
-- Master of Engineering, Electrical and Computer Engineering — University of Waterloo (AI & ML specialization)
-- Bachelor of Engineering, Computer Science — Hongik University (GPA 3.7/4.0)
+- Master of Engineering, Electrical and Computer Engineering — University of Waterloo (AI & ML specialization) in Waterloo, ON, Canada
+- Bachelor of Engineering, Computer Science — Hongik University in Seoul,Korea
 - AWS Certified Solutions Architect – Associate (2023)
-- Google Cloud Professional Developer (2022)
-- Certified Kubernetes Administrator (2023)
 
 ## Contact
 
