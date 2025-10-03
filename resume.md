@@ -9,6 +9,10 @@ author_profile: true
 
 Software engineer based in Washington, USA.
 
+<div style="color: #4285f4; font-weight: bold; margin: 20px 0;">
+U.S. permanent resident authorized to work in the U.S. without sponsorship.
+</div>
+
 ## Download Resume
 
 <div class="notice--info">
