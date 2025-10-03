@@ -1,9 +1,8 @@
 ---
 layout: home
 author_profile: true
+title: "Building Scalable Software That Delivers"
 ---
-
-# Building Scalable Software That Delivers
 
 I design and ship full-stack products that marry thoughtful user experiences with resilient cloud infrastructure. My recent work spans React and TypeScript front ends, Node.js and Java services, and AWS architectures that support products trusted by thousands of daily users.
 
