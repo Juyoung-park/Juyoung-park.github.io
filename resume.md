@@ -81,22 +81,19 @@ U.S. permanent resident authorized to work in the U.S. without sponsorship.
 
 Senior Software Engineer with 15+ years of experience in Android, Cloud, AI/ML, and Distributed Systems. Proven expertise in developing scalable mobile and cloud-based solutions, leading teams, and optimizing AI-driven services. Deep knowledge of Google Cloud, AI/ML deployment, and Android system architecture. 
 
-# U.S. permanent resident authorized to work in the U.S. without sponsorship.
-
-
 ## Technical Expertise
 
 ### Programming Languages
-- Java, Python, Node.js, C#, JavaScript, TypeScript
+  - Java, Python, Node.js, C#, JavaScript, TypeScript
 
 ### Frameworks & Platforms
-- React, Vue.js, React Native, Flutter, Spring Boot
+  - React, Vue.js, React Native, Flutter, Spring Boot
 
 ### Cloud & DevOps
-- AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI, Jenkins)
+  - AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI, Jenkins)
 
 ### Data & Integrations
-- MySQL, PostgreSQL, MongoDB, Redis, RESTful APIs, GraphQL
+  - MySQL, PostgreSQL, MongoDB, Redis, RESTful APIs, GraphQL
 
 ## Experience
 
