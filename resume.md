@@ -96,9 +96,6 @@ Full-stack software engineer delivering user-focused products backed by resilien
 ### Principal Software Engineer | Samsung Electronics | Mar 2022 - Present
 - Developing connectivity and microxr for AR glasses.
 - Design and implement OpenXR specification on Android OS.
-- Build RESTful and GraphQL APIs that serve 10,000+ daily active users.
-- Drive CI/CD automation with GitHub Actions and Docker for reliable deployments.
-- Lead cross-functional teams of five or more developers within agile workflows.
 
 ### Mobile Service Team Lead | Samsung Electronics | Mar 2017 - Feb 2022
 - Led software design and resource management for Samsung place & location services.
@@ -131,10 +128,10 @@ Full-stack software engineer delivering user-focused products backed by resilien
 Specialization: Artificial Intelligence & Machine Learning
 
 Research Projects:
-- Defense Against the Dark Artificial Intelligences
+- # Defense Against the Dark Artificial Intelligences
    Implementing controlled attacks on open-source deep neural networks
    Implementing Fairness in Generative AI (VAE) with Active Inference
-- Practical project with deep neural networks
+- # Practical project with deep neural networks
    Practical CIFAR-100 image classification with deep neural network
    Text Quality prediction with BERT pre-trained large language model
    Enhancing efficiency in Decentralized AI: A dynamic Quantization Paradigm with Outlier Elimination
@@ -147,7 +144,7 @@ Relevant Coursework: Data Structures & Algorithms, Software Engineering, Databas
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate (2023)
-- Best Programmer Award – Samsung Mobile Division (2021
+- Best Programmer Award – Samsung Mobile Division (2021)
 - Samsung Professional Programmer Certification (2021)
 - Bold Challenge Award – Samsung Place Project (2019)
 
