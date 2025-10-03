@@ -7,14 +7,14 @@ author_profile: true
 
 # Juyoung (Justin) Park
 
-Software Engineer based in Washington, USA.
+Software engineer based in Washington, USA.
 
 ## Download Resume
 
 <div class="notice--info">
   <h4>📄 Resume Download</h4>
   <p>Click the button below to download my resume in PDF format.</p>
-  <a href="/assets/files/Juyoung(Justin)Park CV_2025_US.pdf" class="btn btn--primary" download>
+  <a href="/assets/files/Juyoung(Justin)Park%20CV_2025_US.pdf" class="btn btn--primary" download>
     <i class="fas fa-download"></i> Download Resume (PDF)
   </a>
 </div>
@@ -75,60 +75,62 @@ Software Engineer based in Washington, USA.
 
 ## Professional Summary
 
-Experienced software engineer with expertise in full-stack development, cloud technologies, and modern programming frameworks. Passionate about creating efficient, scalable solutions and continuous learning in the ever-evolving tech landscape.
+Full-stack software engineer delivering user-focused products backed by resilient services and cloud infrastructure. Experienced across React and Vue.js front ends, Node.js and Java services, and AWS environments that support high-traffic applications. Passionate about mentoring teams, refining developer workflows, and continuously exploring new technologies.
 
-## Technical Skills
+## Technical Expertise
 
 ### Programming Languages
-- **Backend**: Java, Python, Node.js, C#
-- **Frontend**: JavaScript, TypeScript, React, Vue.js
-- **Mobile**: React Native, Flutter
+- Java, Python, Node.js, C#, JavaScript, TypeScript
 
-### Technologies & Tools
-- **Cloud**: AWS, Azure, Docker, Kubernetes
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
-- **DevOps**: CI/CD, Jenkins, GitLab CI, GitHub Actions
-- **Other**: Git, Linux, RESTful APIs, GraphQL
+### Frameworks & Platforms
+- React, Vue.js, React Native, Flutter, Spring Boot
+
+### Cloud & DevOps
+- AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI, Jenkins)
+
+### Data & Integrations
+- MySQL, PostgreSQL, MongoDB, Redis, RESTful APIs, GraphQL
 
 ## Experience
 
 ### Software Engineer | [Company Name] | 2022 - Present
-- **Full-Stack Development**: Developed and maintained web applications using React, Node.js, and PostgreSQL
-- **Cloud Infrastructure**: Designed and implemented scalable solutions on AWS, including EC2, S3, and RDS
-- **API Development**: Built RESTful APIs and GraphQL endpoints serving 10,000+ daily active users
-- **DevOps**: Implemented CI/CD pipelines using GitHub Actions and Docker for automated deployment
-- **Team Collaboration**: Led cross-functional teams of 5+ developers in agile development processes
+- Develop and maintain full-stack web applications using React, Node.js, and PostgreSQL.
+- Design and implement scalable AWS solutions leveraging EC2, S3, and RDS.
+- Build RESTful and GraphQL APIs that serve 10,000+ daily active users.
+- Drive CI/CD automation with GitHub Actions and Docker for reliable deployments.
+- Lead cross-functional teams of five or more developers within agile workflows.
 
 ### Junior Software Developer | [Previous Company] | 2020 - 2022
-- **Frontend Development**: Created responsive user interfaces using React, TypeScript, and Material-UI
-- **Database Management**: Optimized SQL queries and database performance, reducing query time by 40%
-- **Code Review**: Participated in code review processes and mentored junior developers
-- **Testing**: Implemented comprehensive unit and integration tests with 90%+ code coverage
+- Create responsive React and TypeScript interfaces aligned to product requirements.
+- Tune SQL queries and database performance, cutting query latency by 40%.
+- Contribute to code reviews and mentor junior developers to raise code quality.
+- Expand automated unit and integration test coverage beyond 90%.
 
 ### Software Development Intern | [Internship Company] | 2019 - 2020
-- **Learning & Development**: Gained hands-on experience with modern web development technologies
-- **Project Contribution**: Contributed to internal tools and applications used by 100+ employees
-- **Mentorship**: Worked closely with senior developers to understand best practices and coding standards
+- Gain hands-on experience across modern web stacks while supporting production tools.
+- Deliver features for internal applications adopted by 100+ employees.
+- Learn industry best practices directly from senior engineers and mentors.
 
 ## Education
 
-### Master of Engineering - Electrical and Computer Engineering
-**University of Waterloo** | Ontario, Canada
-- **Specialization**: Artificial Intelligence & Machine Learning
+### Master of Engineering — Electrical and Computer Engineering
+**University of Waterloo**, Ontario, Canada  
+Specialization: Artificial Intelligence & Machine Learning
 
-### Bachelor of Engineering - Computer Science
-**Hongik University** | Seoul, Korea
-- **GPA**: 3.7/4.0
-- **Relevant Coursework**: Data Structures & Algorithms, Software Engineering, Database Systems, Computer Networks
-- **Projects**: 
-  - Developed a real-time chat application using WebSocket and Node.js
-  - Created a machine learning model for image classification using Python and TensorFlow
-  - Built a mobile app for campus navigation using React Native
+### Bachelor of Engineering — Computer Science
+**Hongik University**, Seoul, Korea  
+GPA: 3.7/4.0  
+Relevant Coursework: Data Structures & Algorithms, Software Engineering, Database Systems, Computer Networks  
+Projects:
+- Real-time chat application using WebSocket and Node.js
+- Image classification model with Python and TensorFlow
+- Campus navigation mobile app built with React Native
 
-### Certifications
-- **AWS Certified Solutions Architect** - Associate (2023)
-- **Google Cloud Professional Developer** (2022)
-- **Certified Kubernetes Administrator (CKA)** (2023)
+## Certifications
+
+- AWS Certified Solutions Architect – Associate (2023)
+- Google Cloud Professional Developer (2022)
+- Certified Kubernetes Administrator (2023)
 
 ---
 
