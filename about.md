@@ -13,18 +13,21 @@ Passionate and innovative engineer with 17+ years of experience building world-c
 
 ## What I Focus On
 
-- **Product Engineering**: Translate ideas into production-ready experiences across the stack.
-- **Cloud Architecture**: Design AWS-first solutions using EC2, S3, RDS, Docker, and Kubernetes.
-- **Reliable Delivery**: Automate builds, testing, and deployments with CI/CD and infrastructure-as-code.
-- **Collaboration & Mentorship**: Lead agile teams, review code, and support teammates across disciplines.
+- **Mobile & XR Engineering**: Build innovative Android applications and microXR solutions that power next-generation devices such as AR glasses and wearables.
+- **Cloud-Driven Platforms**: Design and integrate scalable backends on AWS using EC2, S3, RDS, Docker, and Kubernetes.
+- **Reliable Delivery**: Ensure quality and speed with automated testing, CI/CD pipelines, and infrastructure-as-code.
+- **Leadership & Mentorship**: Guide agile teams, review code, and mentor developers to foster collaboration and growth.
+- **AI & ML Transition**: Apply my Master’s in AI/ML to bridge mobile platforms with intelligent, data-driven systems.
 
 ## Recent Experience
 
 **Principal Software Engineer — Samsung Electronics (2022&nbsp;–&nbsp;Present)**  
-- Development and design Android microXR for Samsung AR Glasses
+- Leading Android development and system design for Samsung AR Glasses (microXR platform).
+- Drive innovation in mobile-XR integration and next-gen user experiences.
 
 **Senior Software Developer — Samsung Electronics (2020&nbsp;–&nbsp;2022)**  
-- Technical leading and development for Samsung Positioning, Network Diagnostics.
+- Technical lead for Samsung Positioning Service and Network Diagnostics platform.
+- Built scalable solutions used globally in Galaxy devices for connectivity and performance insights.
 <!-- 
 **Software Development Intern — [Internship Company] (2019&nbsp;–&nbsp;2020)**  
 Support internal product development, applying modern web practices alongside senior mentors. -->
