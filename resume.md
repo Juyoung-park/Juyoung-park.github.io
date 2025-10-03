@@ -75,7 +75,10 @@ Software engineer based in Washington, USA.
 
 ## Professional Summary
 
-Full-stack software engineer delivering user-focused products backed by resilient services and cloud infrastructure. Experienced across React and Vue.js front ends, Node.js and Java services, and AWS environments that support high-traffic applications. Passionate about mentoring teams, refining developer workflows, and continuously exploring new technologies.
+Senior Software Engineer with 15+ years of experience in Android, Cloud, AI/ML, and Distributed Systems. Proven expertise in developing scalable mobile and cloud-based solutions, leading teams, and optimizing AI-driven services. Deep knowledge of Google Cloud, AI/ML deployment, and Android system architecture. 
+
+# U.S. permanent resident authorized to work in the U.S. without sponsorship.
+
 
 ## Technical Expertise
 
