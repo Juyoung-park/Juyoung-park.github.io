@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Variational Autoencoder",
+        "excerpt":"Test posting   Generative AI  ","categories": ["Artificial Intelligent","Generative AI"],
+        "tags": ["Generative AI","VAE"],
+        "url": "/artificial%20intelligent/generative%20ai/Writing-First-Post/",
+        "teaser": null
+      },{
         "title": "My First Blog Post",
         "excerpt":"Hello! I’ve finally created my personal blog.   Starting the Blog   Although I work as a software engineer, I didn’t have a personal tech blog.  Now I’m running a blog built with Jekyll and hosted on GitHub Pages.   Future Plans   I plan to share the following content on this blog:      Technology Learning Journey: Experiences while learning new technologies   Development Tips and Know-how: Useful development tips from practical work   Project Reviews: Retrospectives and lessons learned from completed projects   Thoughts as a Developer: Development culture, career, and developer concerns   Conclusion   I look forward to consistently maintaining this blog and growing together with the developer community.  I appreciate your interest and feedback! 🚀  ","categories": ["blog","development"],
         "tags": ["jekyll","github-pages","blog"],

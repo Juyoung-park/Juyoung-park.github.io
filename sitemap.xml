@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://juyoung-park.github.io/artificial%20intelligent/generative%20ai/Writing-First-Post/</loc>
+<lastmod>2024-03-07T18:33:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://juyoung-park.github.io/blog/development/Made-Blog/</loc>
 <lastmod>2024-06-05T02:28:30+00:00</lastmod>
 </url>
@@ -21,6 +25,9 @@
 <loc>https://juyoung-park.github.io/</loc>
 </url>
 <url>
+<loc>https://juyoung-park.github.io/</loc>
+</url>
+<url>
 <loc>https://juyoung-park.github.io/index_backup/</loc>
 </url>
 <url>
@@ -34,6 +41,6 @@
 </url>
 <url>
 <loc>https://juyoung-park.github.io/assets/files/Juyoung(Justin)Park%20CV_2025_US.pdf</loc>
-<lastmod>2025-10-05T02:44:30+00:00</lastmod>
+<lastmod>2026-01-09T20:42:16+00:00</lastmod>
 </url>
 </urlset>
