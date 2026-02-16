@@ -13,11 +13,8 @@ As a software developer, I created this blog to share various technologies and e
 
 ## Areas of Interest
 
-- **Backend Development**: Java, Spring Boot, Node.js
-- **Frontend Development**: React, Vue.js, TypeScript
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Kubernetes, AWS
-- **Mobile Development**: React Native, Flutter
+- **Mobile Development**
+- **AI/ML**
 
 ## Contact
 
@@ -25,7 +22,7 @@ As a software developer, I created this blog to share various technologies and e
   <div class="contact-item">
     <i class="fas fa-envelope" style="color: #ea4335; margin-right: 8px;"></i>
     <strong>Email:</strong> 
-    <a href="mailto:jy0926.park@gmail.com" style="color: #1a73e8; text-decoration: none;">
+    <a href="mailto:justinjy88.park@gmail.com" style="color: #1a73e8; text-decoration: none;">
       jy0926.park@gmail.com
     </a>
   </div>
