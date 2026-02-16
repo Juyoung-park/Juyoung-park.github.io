@@ -1,42 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://juyoung-park.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://juyoung-park.github.io/" rel="alternate" type="text/html" /><updated>2026-02-16T21:07:23+00:00</updated><id>https://juyoung-park.github.io/feed.xml</id><title type="html">Juyoung Park</title><subtitle>Juyoung Park&apos;s personal tech blog. Sharing thoughts on software development, programming, and technology.</subtitle><author><name>Juyoung Park</name></author><entry><title type="html">Manhattan Distance and Median Value in Grid</title><link href="https://juyoung-park.github.io/coding/algorithms/median_value/" rel="alternate" type="text/html" title="Manhattan Distance and Median Value in Grid" /><published>2026-01-10T00:00:00+00:00</published><updated>2026-01-10T00:00:00+00:00</updated><id>https://juyoung-park.github.io/coding/algorithms/median_value</id><content type="html" xml:base="https://juyoung-park.github.io/coding/algorithms/median_value/"><![CDATA[<h2 id="finding-optimal-meeting-point-using-median">Finding Optimal Meeting Point Using Median</h2>
-
-<p>When dealing with Manhattan distance problems on a grid, there’s an important optimization technique: <strong>to minimize the sum of Manhattan distances from multiple points to a single target point, you should use the median of the x-coordinates and the median of the y-coordinates</strong>.</p>
-
-<h3 id="why-median-works">Why Median Works</h3>
-
-<p>The Manhattan distance between two points <code class="language-plaintext highlighter-rouge">(x1, y1)</code> and <code class="language-plaintext highlighter-rouge">(x2, y2)</code> is defined as:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>|x1 - x2| + |y1 - y2|
-</code></pre></div></div>
-
-<p>When we want to find a point <code class="language-plaintext highlighter-rouge">(x, y)</code> that minimizes the sum of Manhattan distances from <code class="language-plaintext highlighter-rouge">n</code> points <code class="language-plaintext highlighter-rouge">(x1, y1), (x2, y2), ..., (xn, yn)</code>, we need to:</p>
-
-<ol>
-  <li><strong>Find the median of all x-coordinates</strong> - This gives us the optimal x-coordinate</li>
-  <li><strong>Find the median of all y-coordinates</strong> - This gives us the optimal y-coordinate</li>
-</ol>
-
-<h3 id="key-insight">Key Insight</h3>
-
-<p>The median is optimal for Manhattan distance because:</p>
-<ul>
-  <li>The sum of absolute deviations is minimized at the median</li>
-  <li>For x-coordinates: the sum <code class="language-plaintext highlighter-rouge">Σ|x_i - x|</code> is minimized when <code class="language-plaintext highlighter-rouge">x</code> is the median of all <code class="language-plaintext highlighter-rouge">x_i</code></li>
-  <li>For y-coordinates: the sum <code class="language-plaintext highlighter-rouge">Σ|y_i - y|</code> is minimized when <code class="language-plaintext highlighter-rouge">y</code> is the median of all <code class="language-plaintext highlighter-rouge">y_i</code></li>
-</ul>
-
-<p>This property makes the median the optimal choice for minimizing total Manhattan distance, rather than using the mean (average) which is optimal for Euclidean distance.</p>
-
-<h3 id="example">Example</h3>
-
-<p>Given points: <code class="language-plaintext highlighter-rouge">(1, 2), (3, 5), (5, 3), (7, 8), (9, 1)</code></p>
-
-<ul>
-  <li>x-coordinates: <code class="language-plaintext highlighter-rouge">[1, 3, 5, 7, 9]</code> → median = <code class="language-plaintext highlighter-rouge">5</code></li>
-  <li>y-coordinates: <code class="language-plaintext highlighter-rouge">[2, 5, 3, 8, 1]</code> → sorted: <code class="language-plaintext highlighter-rouge">[1, 2, 3, 5, 8]</code> → median = <code class="language-plaintext highlighter-rouge">3</code></li>
-</ul>
-
-<p>Therefore, the optimal meeting point is <code class="language-plaintext highlighter-rouge">(5, 3)</code>, which minimizes the total Manhattan distance from all given points.</p>]]></content><author><name>Juyoung Park</name></author><category term="Coding" /><category term="Algorithms" /><category term="manhattan distance" /><category term="median" /><category term="algorithm" /><category term="optimization" /><summary type="html"><![CDATA[Finding Optimal Meeting Point Using Median]]></summary></entry><entry><title type="html">Building a Blog with Jekyll and GitHub Pages</title><link href="https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup/" rel="alternate" type="text/html" title="Building a Blog with Jekyll and GitHub Pages" /><published>2024-06-05T14:00:00+00:00</published><updated>2024-06-05T14:00:00+00:00</updated><id>https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup</id><content type="html" xml:base="https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup/"><![CDATA[<p>Let me share the process of creating a personal blog using GitHub Pages and Jekyll.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://juyoung-park.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://juyoung-park.github.io/" rel="alternate" type="text/html" /><updated>2026-02-16T21:32:08+00:00</updated><id>https://juyoung-park.github.io/feed.xml</id><title type="html">Juyoung Park</title><subtitle>Juyoung Park&apos;s personal tech blog. Sharing thoughts on software development, programming, and technology.</subtitle><author><name>Juyoung Park</name></author><entry><title type="html">Building a Blog with Jekyll and GitHub Pages</title><link href="https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup/" rel="alternate" type="text/html" title="Building a Blog with Jekyll and GitHub Pages" /><published>2024-06-05T14:00:00+00:00</published><updated>2024-06-05T14:00:00+00:00</updated><id>https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup</id><content type="html" xml:base="https://juyoung-park.github.io/development/blog/Jekyll-GitHub-Pages-Setup/"><![CDATA[<p>Let me share the process of creating a personal blog using GitHub Pages and Jekyll.</p>
 
 <h2 id="what-is-jekyll">What is Jekyll?</h2>
 
@@ -124,6 +86,4 @@ Now I’m running a blog built with Jekyll and hosted on GitHub Pages.</p>
 <h2 id="conclusion">Conclusion</h2>
 
 <p>I look forward to consistently maintaining this blog and growing together with the developer community. 
-I appreciate your interest and feedback! 🚀</p>]]></content><author><name>Juyoung Park</name></author><category term="blog" /><category term="development" /><category term="jekyll" /><category term="github-pages" /><category term="blog" /><summary type="html"><![CDATA[Hello! I’ve finally created my personal blog.]]></summary></entry><entry><title type="html">Variational Autoencoder</title><link href="https://juyoung-park.github.io/artificial%20intelligent/generative%20ai/Writing-First-Post/" rel="alternate" type="text/html" title="Variational Autoencoder" /><published>2024-03-07T18:33:00+00:00</published><updated>2024-03-07T18:33:00+00:00</updated><id>https://juyoung-park.github.io/artificial%20intelligent/generative%20ai/Writing-First-Post</id><content type="html" xml:base="https://juyoung-park.github.io/artificial%20intelligent/generative%20ai/Writing-First-Post/"><![CDATA[<p>Test posting</p>
-
-<p>Generative AI</p>]]></content><author><name>Juyoung Park</name></author><category term="Artificial Intelligent" /><category term="Generative AI" /><category term="Generative AI" /><category term="VAE" /><summary type="html"><![CDATA[Test posting]]></summary></entry></feed>
+I appreciate your interest and feedback! 🚀</p>]]></content><author><name>Juyoung Park</name></author><category term="blog" /><category term="development" /><category term="jekyll" /><category term="github-pages" /><category term="blog" /><summary type="html"><![CDATA[Hello! I’ve finally created my personal blog.]]></summary></entry></feed>
