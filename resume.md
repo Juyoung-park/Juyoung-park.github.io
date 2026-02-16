@@ -14,7 +14,7 @@ Software Engineer based in Washington, USA.
 <div class="notice--info">
   <h4>📄 Resume Download</h4>
   <p>Click the button below to download my resume in PDF format.</p>
-  <a href="/assets/files/Juyoung(Justin)Park CV_2025_US.pdf" class="btn btn--primary" download>
+  <a href="/assets/files/CV_Justin_Park.pdf" class="btn btn--primary" download>
     <i class="fas fa-download"></i> Download Resume (PDF)
   </a>
 </div>
