@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Building a Blog with Jekyll and GitHub Pages"
 date: 2024-06-05 10:00:00 -0400
 author: Juyoung Park
